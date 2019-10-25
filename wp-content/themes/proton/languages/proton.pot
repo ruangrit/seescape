@@ -1,0 +1,3184 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Proton - Minimal Portfolio Theme 1.4\n"
+"POT-Creation-Date: 2018-08-31 16:10+0200\n"
+"PO-Revision-Date: 2016-12-06 20:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: neuronthemes <neuronthemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: esc_attr__;__;_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9 search.php:84
+msgid "404"
+msgstr ""
+
+#: 404.php:15 search.php:85
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:33 taxonomy-portfolio_category.php:33
+msgid "All posts in this taxonomy."
+msgstr ""
+
+#: author.php:33
+msgid "All posts from this author."
+msgstr ""
+
+#: comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Write a comment"
+msgstr ""
+
+#: comments.php:61
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:115
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:120
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:125
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:130
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: functions.php:136
+msgid "Visual Composer"
+msgstr ""
+
+#: functions.php:142
+msgid "ACF Repeater"
+msgstr ""
+
+#: functions.php:148
+msgid "ACF Flexible Content"
+msgstr ""
+
+#: functions.php:154
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: functions.php:159
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:165
+msgid "Advanced Custom Fields Font Awesome"
+msgstr ""
+
+#: functions.php:170
+msgid "Tweets Widgets"
+msgstr ""
+
+#: functions.php:277
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:287
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:298
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:310
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:320
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:331
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:343
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: header.php:136
+msgid "No menu assigned!"
+msgstr ""
+
+#: includes/options-config.php:15
+msgid "Proton"
+msgstr ""
+
+#: includes/options-config.php:16
+msgid "Proton Options"
+msgstr ""
+
+#: includes/options-config.php:88
+msgid "General"
+msgstr ""
+
+#: includes/options-config.php:90
+msgid "Welcome to Proton Theme Options."
+msgstr ""
+
+#: includes/options-config.php:97
+msgid "Proton Style"
+msgstr ""
+
+#: includes/options-config.php:98
+msgid "Change the main style of Proton, choose between classic and modern."
+msgstr ""
+
+#: includes/options-config.php:100 includes/vc_functions.php:301
+#: includes/vc_functions.php:574
+msgid "Classic"
+msgstr ""
+
+#: includes/options-config.php:101
+msgid "Modern"
+msgstr ""
+
+#: includes/options-config.php:108
+msgid "Proton Skin"
+msgstr ""
+
+#: includes/options-config.php:109
+msgid "Change the skin of Proton, default is light."
+msgstr ""
+
+#: includes/options-config.php:111
+msgid "Light"
+msgstr ""
+
+#: includes/options-config.php:112
+msgid "Dark"
+msgstr ""
+
+#: includes/options-config.php:119
+msgid "Responsivity"
+msgstr ""
+
+#: includes/options-config.php:120
+msgid "Switch on or off the responsivity, if you disable the responsive your website will remain the same on small devices."
+msgstr ""
+
+#: includes/options-config.php:121 includes/options-config.php:1071
+#: includes/options-config.php:1125 includes/vc_functions.php:605
+msgid "Enable"
+msgstr ""
+
+#: includes/options-config.php:122 includes/options-config.php:1072
+#: includes/options-config.php:1126
+msgid "Disable"
+msgstr ""
+
+#: includes/options-config.php:128
+msgid "Activate Borders"
+msgstr ""
+
+#: includes/options-config.php:129
+msgid "Switch on or off the borders in your website, borders will appear in all edges of website."
+msgstr ""
+
+#: includes/options-config.php:134
+msgid "Borders Size"
+msgstr ""
+
+#: includes/options-config.php:135
+msgid "Change the borders size, default is 12px. Write only the number without 'px'."
+msgstr ""
+
+#: includes/options-config.php:141
+msgid "Transition Effect"
+msgstr ""
+
+#: includes/options-config.php:142
+msgid "Switch on or off the transition effect, all elements will hover or fadeIn smoothly."
+msgstr ""
+
+#: includes/options-config.php:148
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/options-config.php:149
+msgid "Change the transition duration, default is 0.2 seconds. Write only the number."
+msgstr ""
+
+#: includes/options-config.php:155
+msgid "Smooth Scroll"
+msgstr ""
+
+#: includes/options-config.php:156
+msgid "Switch on or off the smooth scroll effect, the website will scroll smothly."
+msgstr ""
+
+#: includes/options-config.php:162
+msgid "Favicon Upload"
+msgstr ""
+
+#: includes/options-config.php:163
+msgid "Upload your favicon, 16x16 preferred size in PNG format."
+msgstr ""
+
+#: includes/options-config.php:168
+msgid "Custom CSS Code"
+msgstr ""
+
+#: includes/options-config.php:169
+msgid "Enter your Custom CSS."
+msgstr ""
+
+#: includes/options-config.php:176
+msgid "Custom JS Code"
+msgstr ""
+
+#: includes/options-config.php:177
+msgid "Enter your Custom Javascript."
+msgstr ""
+
+#: includes/options-config.php:184
+msgid "Google Analytics"
+msgstr ""
+
+#: includes/options-config.php:185
+msgid "Enter your google analytics."
+msgstr ""
+
+#: includes/options-config.php:194
+msgid "Header"
+msgstr ""
+
+#: includes/options-config.php:196
+msgid "All Header Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:203
+msgid "Menu Type"
+msgstr ""
+
+#: includes/options-config.php:204
+msgid "Select the menu style, classic is the standard one with logo in left and menu in right. Minimal and Overlay menu will open when hamburger bar is clicked."
+msgstr ""
+
+#: includes/options-config.php:215
+msgid "Sticky Menu"
+msgstr ""
+
+#: includes/options-config.php:216
+msgid "Enable or Disable the sticky menu, even if you scroll the header will stay fixed."
+msgstr ""
+
+#: includes/options-config.php:222
+msgid "Logo"
+msgstr ""
+
+#: includes/options-config.php:223
+msgid "Upload a .png or .jpg image that will be your logo."
+msgstr ""
+
+#: includes/options-config.php:228
+msgid "White Logo"
+msgstr ""
+
+#: includes/options-config.php:229
+msgid "Upload a .png or .jpg image that will be your white logo, which will be displayed on overlay menu."
+msgstr ""
+
+#: includes/options-config.php:235
+msgid "Logo Width"
+msgstr ""
+
+#: includes/options-config.php:236
+msgid "Enter the number to change the logo image width, enter only the number without {px}."
+msgstr ""
+
+#: includes/options-config.php:241
+msgid "Logo Height"
+msgstr ""
+
+#: includes/options-config.php:242
+msgid "Enter the number to change the logo image height, enter only the number without {px}."
+msgstr ""
+
+#: includes/options-config.php:247
+msgid "Logo Text"
+msgstr ""
+
+#: includes/options-config.php:248
+msgid "Enter the text that will appear as logo."
+msgstr ""
+
+#: includes/options-config.php:253
+msgid "Mini Cart"
+msgstr ""
+
+#: includes/options-config.php:254
+msgid "Show or hide the mini cart on menu."
+msgstr ""
+
+#: includes/options-config.php:256 includes/options-config.php:612
+#: includes/options-config.php:621 includes/options-config.php:647
+#: includes/options-config.php:1094 includes/options-config.php:1156
+#: includes/vc_functions.php:360 includes/vc_functions.php:373
+#: includes/vc_functions.php:386
+msgid "Show"
+msgstr ""
+
+#: includes/options-config.php:257 includes/options-config.php:613
+#: includes/options-config.php:622 includes/options-config.php:648
+#: includes/options-config.php:810 includes/options-config.php:1095
+#: includes/options-config.php:1157 includes/vc_functions.php:332
+#: includes/vc_functions.php:361 includes/vc_functions.php:374
+#: includes/vc_functions.php:387
+msgid "Hide"
+msgstr ""
+
+#: includes/options-config.php:264
+msgid "Footer"
+msgstr ""
+
+#: includes/options-config.php:266
+msgid "All Footer Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:273
+msgid "Footer Parallax"
+msgstr ""
+
+#: includes/options-config.php:274
+msgid "Switch on if you want to make footer parallax."
+msgstr ""
+
+#: includes/options-config.php:279
+msgid "Footer Widgets"
+msgstr ""
+
+#: includes/options-config.php:280
+msgid "Switch on if you want to show widgets on footer."
+msgstr ""
+
+#: includes/options-config.php:286 includes/options-config.php:528
+#: includes/options-config.php:858 includes/options-config.php:1030
+#: includes/vc_functions.php:186 includes/vc_functions.php:311
+msgid "Columns"
+msgstr ""
+
+#: includes/options-config.php:287
+msgid "Select the columns of Widgets."
+msgstr ""
+
+#: includes/options-config.php:299 includes/vc_functions.php:1415
+msgid "Alignment"
+msgstr ""
+
+#: includes/options-config.php:300
+msgid "Select the alignment of content."
+msgstr ""
+
+#: includes/options-config.php:302 includes/options-config.php:747
+#: includes/options-config.php:758 includes/options-config.php:808
+#: includes/vc_functions.php:330 includes/vc_functions.php:345
+#: includes/vc_functions.php:1164 includes/vc_functions.php:1178
+#: includes/vc_functions.php:1420
+msgid "Left"
+msgstr ""
+
+#: includes/options-config.php:303 includes/options-config.php:544
+#: includes/options-config.php:759 includes/vc_functions.php:207
+#: includes/vc_functions.php:346 includes/vc_functions.php:1179
+#: includes/vc_functions.php:1421
+msgid "Center"
+msgstr ""
+
+#: includes/options-config.php:304 includes/options-config.php:748
+#: includes/options-config.php:760 includes/options-config.php:809
+#: includes/vc_functions.php:331 includes/vc_functions.php:347
+#: includes/vc_functions.php:1165 includes/vc_functions.php:1180
+#: includes/vc_functions.php:1422
+msgid "Right"
+msgstr ""
+
+#: includes/options-config.php:314
+msgid "Footer Copyright"
+msgstr ""
+
+#: includes/options-config.php:315
+msgid "Enter the text that will appear in footer as copyright."
+msgstr ""
+
+#: includes/options-config.php:320
+msgid "Social Icons"
+msgstr ""
+
+#: includes/options-config.php:321
+msgid "Switch on if you want to show the social icons in footer."
+msgstr ""
+
+#: includes/options-config.php:326
+msgid "Show Facebook Icon"
+msgstr ""
+
+#: includes/options-config.php:332
+msgid "Show Twitter Icon"
+msgstr ""
+
+#: includes/options-config.php:338
+msgid "Show Google Plus Icon"
+msgstr ""
+
+#: includes/options-config.php:344
+msgid "Show Vimeo Icon"
+msgstr ""
+
+#: includes/options-config.php:350
+msgid "Show Dribbble Icon"
+msgstr ""
+
+#: includes/options-config.php:356
+msgid "Show Pinterest Icon"
+msgstr ""
+
+#: includes/options-config.php:362
+msgid "Show Youtube Icon"
+msgstr ""
+
+#: includes/options-config.php:368
+msgid "Show Tumblr Icon"
+msgstr ""
+
+#: includes/options-config.php:374
+msgid "Show Linkedin Icon"
+msgstr ""
+
+#: includes/options-config.php:380
+msgid "Show Behance Icon"
+msgstr ""
+
+#: includes/options-config.php:386
+msgid "Show 500px Icon"
+msgstr ""
+
+#: includes/options-config.php:392
+msgid "Show Flickr Icon"
+msgstr ""
+
+#: includes/options-config.php:398
+msgid "Show Spotify Icon"
+msgstr ""
+
+#: includes/options-config.php:404
+msgid "Show Instagram Icon"
+msgstr ""
+
+#: includes/options-config.php:410
+msgid "Show GitHub Icon"
+msgstr ""
+
+#: includes/options-config.php:416
+msgid "Show StackExchange Icon"
+msgstr ""
+
+#: includes/options-config.php:422
+msgid "Show SoundCloud Icon"
+msgstr ""
+
+#: includes/options-config.php:428
+msgid "Show VK Icon"
+msgstr ""
+
+#: includes/options-config.php:434
+msgid "Show Vine Icon"
+msgstr ""
+
+#: includes/options-config.php:442 includes/options-config.php:498
+#: includes/options-config.php:678 includes/vc_functions.php:143
+#: includes/vc_functions.php:157 includes/vc_functions.php:175
+#: includes/vc_functions.php:182 includes/vc_functions.php:197
+#: includes/vc_functions.php:214 includes/vc_functions.php:228
+#: includes/vc_functions.php:240 includes/vc_functions.php:247
+#: includes/vc_functions.php:255 includes/vc_functions.php:307
+#: includes/vc_functions.php:322 includes/vc_functions.php:335
+#: includes/vc_functions.php:350 includes/vc_functions.php:364
+#: includes/vc_functions.php:377 includes/vc_functions.php:390
+#: includes/vc_functions.php:397 includes/vc_functions.php:427
+#: includes/vc_functions.php:734 includes/vc_functions.php:741
+#: includes/vc_functions.php:754 includes/vc_functions.php:761
+#: includes/vc_functions.php:780 includes/vc_functions.php:788
+#: includes/vc_functions.php:796 includes/vc_functions.php:803
+#: includes/vc_functions.php:926 includes/vc_functions.php:939
+#: includes/vc_functions.php:944 includes/vc_functions.php:955
+#: includes/vc_functions.php:1136
+msgid "Style"
+msgstr ""
+
+#: includes/options-config.php:444
+msgid "All Style Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:451
+msgid "Body Color"
+msgstr ""
+
+#: includes/options-config.php:452
+msgid "Change the body color."
+msgstr ""
+
+#: includes/options-config.php:457
+msgid "Main Color"
+msgstr ""
+
+#: includes/options-config.php:458
+msgid "Change all main elements color. "
+msgstr ""
+
+#: includes/options-config.php:463 includes/vc_functions.php:738
+msgid "Borders Color"
+msgstr ""
+
+#: includes/options-config.php:464
+msgid "Change the borders color."
+msgstr ""
+
+#: includes/options-config.php:469
+msgid "Header Menu Color"
+msgstr ""
+
+#: includes/options-config.php:470
+msgid "Change the header menu color."
+msgstr ""
+
+#: includes/options-config.php:475
+msgid "Header Dropdown Color"
+msgstr ""
+
+#: includes/options-config.php:476
+msgid "Change the header dropdown color."
+msgstr ""
+
+#: includes/options-config.php:481
+msgid "Footer Color"
+msgstr ""
+
+#: includes/options-config.php:482
+msgid "Change the footer color."
+msgstr ""
+
+#: includes/options-config.php:489 includes/vc_functions.php:88
+msgid "Portfolio"
+msgstr ""
+
+#: includes/options-config.php:491
+msgid "All Portfolio Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:499
+msgid "Select the style layout of Portfolio."
+msgstr ""
+
+#: includes/options-config.php:501 includes/vc_functions.php:148
+msgid "Hover"
+msgstr ""
+
+#: includes/options-config.php:502
+msgid "Hover & NoSpace"
+msgstr ""
+
+#: includes/options-config.php:503 includes/vc_functions.php:150
+msgid "Meta"
+msgstr ""
+
+#: includes/options-config.php:504
+msgid "Meta & NoSpace"
+msgstr ""
+
+#: includes/options-config.php:505 includes/vc_functions.php:152
+msgid "No Meta"
+msgstr ""
+
+#: includes/options-config.php:506
+msgid "No Meta & NoSpace"
+msgstr ""
+
+#: includes/options-config.php:513 includes/vc_functions.php:161
+msgid "Hover Style"
+msgstr ""
+
+#: includes/options-config.php:514
+msgid "Select the hover style of Portfolio, make sure to select first or second Portfolio style to make hover visible."
+msgstr ""
+
+#: includes/options-config.php:516 includes/vc_functions.php:166
+msgid "Meta Tags"
+msgstr ""
+
+#: includes/options-config.php:517 includes/options-config.php:1050
+#: includes/options-config.php:1078 includes/options-config.php:1140
+#: includes/vc_functions.php:56 includes/vc_functions.php:167
+#: includes/vc_functions.php:680 includes/vc_functions.php:1306
+msgid "Title"
+msgstr ""
+
+#: includes/options-config.php:518 includes/vc_functions.php:168
+msgid "Gallery"
+msgstr ""
+
+#: includes/options-config.php:519 includes/vc_functions.php:169
+msgid "Meta Tags & Boxed"
+msgstr ""
+
+#: includes/options-config.php:520 includes/vc_functions.php:170
+msgid "Title & Boxed"
+msgstr ""
+
+#: includes/options-config.php:521 includes/vc_functions.php:171
+msgid "Gallery & Boxed"
+msgstr ""
+
+#: includes/options-config.php:529
+msgid "Select the columns of Portfolio, default is 3 columns."
+msgstr ""
+
+#: includes/options-config.php:531 includes/options-config.php:602
+#: includes/options-config.php:1034 includes/vc_functions.php:191
+#: includes/vc_functions.php:316
+msgid "2 Columns"
+msgstr ""
+
+#: includes/options-config.php:532 includes/options-config.php:603
+#: includes/options-config.php:1035 includes/vc_functions.php:192
+#: includes/vc_functions.php:317
+msgid "3 Columns"
+msgstr ""
+
+#: includes/options-config.php:533 includes/options-config.php:1036
+#: includes/vc_functions.php:193 includes/vc_functions.php:318
+msgid "4 Columns"
+msgstr ""
+
+#: includes/options-config.php:534
+msgid "5 Columns"
+msgstr ""
+
+#: includes/options-config.php:541 includes/vc_functions.php:202
+msgid "Text Position"
+msgstr ""
+
+#: includes/options-config.php:542
+msgid "Please select text position, default is center."
+msgstr ""
+
+#: includes/options-config.php:545 includes/vc_functions.php:208
+msgid "Top Left"
+msgstr ""
+
+#: includes/options-config.php:546 includes/vc_functions.php:209
+msgid "Top Right"
+msgstr ""
+
+#: includes/options-config.php:547 includes/vc_functions.php:210
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/options-config.php:548 includes/vc_functions.php:211
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/options-config.php:555
+msgid "Hover effect"
+msgstr ""
+
+#: includes/options-config.php:556 includes/vc_functions.php:221
+msgid "Switch on if you want to enable portfolio hover effect."
+msgstr ""
+
+#: includes/options-config.php:561
+msgid "Masonry"
+msgstr ""
+
+#: includes/options-config.php:562
+msgid "Switch on the Masonry style, the projects will be displayed in opposite of fixed rows."
+msgstr ""
+
+#: includes/options-config.php:567 includes/vc_functions.php:96
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/options-config.php:568
+msgid "Hide links from categories in portfolio."
+msgstr ""
+
+#: includes/options-config.php:576
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/options-config.php:578
+msgid "All Portfolio Item Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:585
+msgid "Portfolio Item layout"
+msgstr ""
+
+#: includes/options-config.php:586
+msgid "Select the style layout of Portfolio Item."
+msgstr ""
+
+#: includes/options-config.php:588
+msgid "Single v1"
+msgstr ""
+
+#: includes/options-config.php:589
+msgid "Single v2"
+msgstr ""
+
+#: includes/options-config.php:590
+msgid "Single v3"
+msgstr ""
+
+#: includes/options-config.php:591
+msgid "Single v4"
+msgstr ""
+
+#: includes/options-config.php:598
+msgid "Portfolio Item Gallery Columns"
+msgstr ""
+
+#: includes/options-config.php:599
+msgid "Select the columns of Gallery."
+msgstr ""
+
+#: includes/options-config.php:601 includes/options-config.php:1033
+#: includes/vc_functions.php:315
+msgid "Full Width"
+msgstr ""
+
+#: includes/options-config.php:610
+msgid "Portfolio Item Navigation"
+msgstr ""
+
+#: includes/options-config.php:611
+msgid "Hide or show the navigation on portfolio single."
+msgstr ""
+
+#: includes/options-config.php:619
+msgid "Portfolio Item Categories"
+msgstr ""
+
+#: includes/options-config.php:620
+msgid "Hide or show the categories on portfolio single."
+msgstr ""
+
+#: includes/options-config.php:628
+msgid "Portfolio Item Gallery"
+msgstr ""
+
+#: includes/options-config.php:629 includes/options-config.php:635
+msgid "Switch on the Gallery, the projects will be displayed in fancybox slider."
+msgstr ""
+
+#: includes/options-config.php:634
+msgid "Embed Video Position"
+msgstr ""
+
+#: includes/options-config.php:637 includes/vc_functions.php:1166
+msgid "Top"
+msgstr ""
+
+#: includes/options-config.php:638 includes/vc_functions.php:1167
+msgid "Bottom"
+msgstr ""
+
+#: includes/options-config.php:645
+msgid "Share"
+msgstr ""
+
+#: includes/options-config.php:646
+msgid "Hide or show the share icons on project item."
+msgstr ""
+
+#: includes/options-config.php:654
+msgid "Share type"
+msgstr ""
+
+#: includes/options-config.php:655
+msgid "Select the type you want to display the share social media."
+msgstr ""
+
+#: includes/options-config.php:658 includes/vc_functions.php:922
+msgid "Icons"
+msgstr ""
+
+#: includes/options-config.php:659 includes/vc_functions.php:923
+msgid "Text"
+msgstr ""
+
+#: includes/options-config.php:666 includes/vc_functions.php:297
+#: includes/vc_functions.php:931
+msgid "Layout"
+msgstr ""
+
+#: includes/options-config.php:667
+msgid "Select the layout of social medias."
+msgstr ""
+
+#: includes/options-config.php:669 includes/options-config.php:681
+#: includes/vc_functions.php:443 includes/vc_functions.php:573
+#: includes/vc_functions.php:935 includes/vc_functions.php:948
+msgid "Default"
+msgstr ""
+
+#: includes/options-config.php:670 includes/vc_functions.php:936
+msgid "Background"
+msgstr ""
+
+#: includes/options-config.php:679 includes/vc_functions.php:946
+msgid "Select the social media style."
+msgstr ""
+
+#: includes/options-config.php:682 includes/vc_functions.php:949
+msgid "Color in Text"
+msgstr ""
+
+#: includes/options-config.php:683 includes/vc_functions.php:950
+msgid "Color in Hover Text"
+msgstr ""
+
+#: includes/options-config.php:684 includes/vc_functions.php:951
+msgid "Color in Background"
+msgstr ""
+
+#: includes/options-config.php:685 includes/vc_functions.php:952
+msgid "Color in Hover Background"
+msgstr ""
+
+#: includes/options-config.php:693
+msgid "Share title"
+msgstr ""
+
+#: includes/options-config.php:694
+msgid "Add a title on the share section."
+msgstr ""
+
+#: includes/options-config.php:700
+msgid "Share icons"
+msgstr ""
+
+#: includes/options-config.php:701
+msgid "Select which ones you want to display as share icons in posts."
+msgstr ""
+
+#: includes/options-config.php:704 includes/options-config.php:1167
+msgid "Facebook"
+msgstr ""
+
+#: includes/options-config.php:705 includes/options-config.php:1168
+msgid "Twitter"
+msgstr ""
+
+#: includes/options-config.php:706 includes/options-config.php:1169
+msgid "Google Plus"
+msgstr ""
+
+#: includes/options-config.php:707 includes/options-config.php:1177
+msgid "Linkedin"
+msgstr ""
+
+#: includes/options-config.php:710 includes/options-config.php:1174
+msgid "Pinterest"
+msgstr ""
+
+#: includes/options-config.php:711 includes/options-config.php:1176
+msgid "Tumblr"
+msgstr ""
+
+#: includes/options-config.php:721 includes/vc_functions.php:271
+msgid "Blog"
+msgstr ""
+
+#: includes/options-config.php:723
+msgid "All Blog Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:730
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/options-config.php:731
+msgid "Select the style layout of Blog."
+msgstr ""
+
+#: includes/options-config.php:744 includes/options-config.php:805
+#: includes/vc_functions.php:326
+msgid "Sidebar"
+msgstr ""
+
+#: includes/options-config.php:745
+msgid "Change the position of sidebar, sidebar is placed in Classic and Minimal."
+msgstr ""
+
+#: includes/options-config.php:755 includes/vc_functions.php:340
+msgid "Pagination Position"
+msgstr ""
+
+#: includes/options-config.php:756
+msgid "Change the position of pagination."
+msgstr ""
+
+#: includes/options-config.php:767 includes/options-config.php:823
+msgid "Show Author Info"
+msgstr ""
+
+#: includes/options-config.php:773 includes/options-config.php:829
+#: includes/vc_functions.php:368
+msgid "Show Categories"
+msgstr ""
+
+#: includes/options-config.php:779 includes/options-config.php:835
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/options-config.php:785
+msgid "Blog Single"
+msgstr ""
+
+#: includes/options-config.php:787
+msgid "All Blog Single Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:794
+msgid "Blog Single Layout"
+msgstr ""
+
+#: includes/options-config.php:795
+msgid "Select the style layout of Blog Single."
+msgstr ""
+
+#: includes/options-config.php:806
+msgid "Change the position of sidebar or hide it."
+msgstr ""
+
+#: includes/options-config.php:817
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/options-config.php:841
+msgid "Show Next-Previous Post Links"
+msgstr ""
+
+#: includes/options-config.php:849
+msgid "Shop"
+msgstr ""
+
+#: includes/options-config.php:851
+msgid "All Shop Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:859
+msgid "Select the columns of Shop Page."
+msgstr ""
+
+#: includes/options-config.php:868
+msgid "Page Title"
+msgstr ""
+
+#: includes/options-config.php:869
+msgid "Write the page title in Shop."
+msgstr ""
+
+#: includes/options-config.php:878
+msgid "Typography"
+msgstr ""
+
+#: includes/options-config.php:880 includes/options-config.php:888
+msgid "All Typography Options are listed on this section."
+msgstr ""
+
+#: includes/options-config.php:886
+msgid "Header & Page Header"
+msgstr ""
+
+#: includes/options-config.php:895
+msgid "Header Font"
+msgstr ""
+
+#: includes/options-config.php:896
+msgid "Change the Header font properties."
+msgstr ""
+
+#: includes/options-config.php:904
+msgid "Header Dropdown Font"
+msgstr ""
+
+#: includes/options-config.php:905
+msgid "Change the Header Dropdown font properties."
+msgstr ""
+
+#: includes/options-config.php:913
+msgid "Page Header Title Font"
+msgstr ""
+
+#: includes/options-config.php:914
+msgid "Change the Page Header font properties."
+msgstr ""
+
+#: includes/options-config.php:923
+msgid "Basic HTML Elements"
+msgstr ""
+
+#: includes/options-config.php:931
+msgid "Body Font"
+msgstr ""
+
+#: includes/options-config.php:932
+msgid "Change the Body font properties."
+msgstr ""
+
+#: includes/options-config.php:940
+msgid "Heading One"
+msgstr ""
+
+#: includes/options-config.php:941
+msgid "Change the H1 font properties."
+msgstr ""
+
+#: includes/options-config.php:949
+msgid "Heading Two"
+msgstr ""
+
+#: includes/options-config.php:950
+msgid "Change the H2 font properties."
+msgstr ""
+
+#: includes/options-config.php:958
+msgid "Heading Three"
+msgstr ""
+
+#: includes/options-config.php:959
+msgid "Change the H3 font properties."
+msgstr ""
+
+#: includes/options-config.php:967
+msgid "Heading Four"
+msgstr ""
+
+#: includes/options-config.php:968
+msgid "Change the H4 font properties."
+msgstr ""
+
+#: includes/options-config.php:976
+msgid "Heading Five"
+msgstr ""
+
+#: includes/options-config.php:977
+msgid "Change the H5 font properties."
+msgstr ""
+
+#: includes/options-config.php:985
+msgid "Heading Six"
+msgstr ""
+
+#: includes/options-config.php:986
+msgid "Change the H6 font properties."
+msgstr ""
+
+#: includes/options-config.php:996
+msgid "Google Maps"
+msgstr ""
+
+#: includes/options-config.php:1004
+msgid "API Key"
+msgstr ""
+
+#: includes/options-config.php:1005
+msgid "Enter your API Key."
+msgstr ""
+
+#: includes/options-config.php:1012
+msgid "Utility"
+msgstr ""
+
+#: includes/options-config.php:1017
+msgid "Search Page"
+msgstr ""
+
+#: includes/options-config.php:1024
+msgid "Page title"
+msgstr ""
+
+#: includes/options-config.php:1025
+msgid "Change the page title of search, default is 'All search results in this critea.', if you want to remove it enter the string 'empty'."
+msgstr ""
+
+#: includes/options-config.php:1031
+msgid "Select the columns of search page, default is 2 columns."
+msgstr ""
+
+#: includes/options-config.php:1043
+msgid "404 Page"
+msgstr ""
+
+#: includes/options-config.php:1051
+msgid "Override the actual title of 404 page."
+msgstr ""
+
+#: includes/options-config.php:1056 includes/options-config.php:1085
+#: includes/options-config.php:1147 includes/vc_functions.php:713
+#: includes/vc_functions.php:1336
+msgid "Description"
+msgstr ""
+
+#: includes/options-config.php:1057
+msgid "Override the actual description of 404 page."
+msgstr ""
+
+#: includes/options-config.php:1062
+msgid "Maintenance"
+msgstr ""
+
+#: includes/options-config.php:1069 templates/page-maintenance.php:22
+msgid "Maintenance Mode"
+msgstr ""
+
+#: includes/options-config.php:1070
+msgid "Enable the maintenance mode for your website. <p class=\"description\">Note: Only you(admin) will be able to see the preview of website, to view the maintenance click <a href=\"../?maintenance-mode=true\">here</a>.</p>"
+msgstr ""
+
+#: includes/options-config.php:1079
+msgid "Override the actual title of maintenance page."
+msgstr ""
+
+#: includes/options-config.php:1086
+msgid "Override the actual description of maintenance page."
+msgstr ""
+
+#: includes/options-config.php:1092 includes/vc_functions.php:413
+#: includes/vc_functions.php:725
+msgid "Button"
+msgstr ""
+
+#: includes/options-config.php:1093
+msgid "Show or hide a button in maintenance page."
+msgstr ""
+
+#: includes/options-config.php:1102
+msgid "Button Text"
+msgstr ""
+
+#: includes/options-config.php:1103
+msgid "Enter the text of button."
+msgstr ""
+
+#: includes/options-config.php:1109
+msgid "Button URL"
+msgstr ""
+
+#: includes/options-config.php:1110
+msgid "Enter the url of button."
+msgstr ""
+
+#: includes/options-config.php:1116 includes/options-config.php:1123
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/options-config.php:1124
+msgid "Enable the coming soon mode for your website. <p class=\"description\">Note: Only you(admin) will be able to see the preview of website, to view the coming soon click <a href=\"../?coming-soon=true\">here</a>.</p>"
+msgstr ""
+
+#: includes/options-config.php:1132
+msgid "Date"
+msgstr ""
+
+#: includes/options-config.php:1133
+msgid "Pickup the date when your website will be ready."
+msgstr ""
+
+#: includes/options-config.php:1141
+msgid "Override the actual title of coming soon page."
+msgstr ""
+
+#: includes/options-config.php:1148
+msgid "Override the actual description of coming soon page."
+msgstr ""
+
+#: includes/options-config.php:1154 includes/options-config.php:1163
+#: includes/options-config.php:1196 includes/vc_functions.php:910
+msgid "Social Media"
+msgstr ""
+
+#: includes/options-config.php:1155
+msgid "Show or hide the social medias in coming soon."
+msgstr ""
+
+#: includes/options-config.php:1164
+msgid "Select which social medias you want to display in coming soon. <p class=\"description\">Note: Do not forget to add the links at Theme Options > Social Media.</p>"
+msgstr ""
+
+#: includes/options-config.php:1170
+msgid "Vimeo"
+msgstr ""
+
+#: includes/options-config.php:1171
+msgid "Dribbble"
+msgstr ""
+
+#: includes/options-config.php:1175
+msgid "Youtube"
+msgstr ""
+
+#: includes/options-config.php:1178
+msgid "Behance"
+msgstr ""
+
+#: includes/options-config.php:1179
+msgid "Flickr"
+msgstr ""
+
+#: includes/options-config.php:1180
+msgid "Spotify"
+msgstr ""
+
+#: includes/options-config.php:1181
+msgid "Instagram"
+msgstr ""
+
+#: includes/options-config.php:1182
+msgid "GitHub"
+msgstr ""
+
+#: includes/options-config.php:1183
+msgid "StackExchange"
+msgstr ""
+
+#: includes/options-config.php:1184
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/options-config.php:1185
+msgid "VK"
+msgstr ""
+
+#: includes/options-config.php:1186
+msgid "Vine"
+msgstr ""
+
+#: includes/options-config.php:1198
+msgid "Enter in your social media locations here and then activate which ones you would like to display. <br><b> Remember to include the \"http://\" in all URLs!</b>"
+msgstr ""
+
+#: includes/options-config.php:1204 includes/vc_functions.php:973
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/options-config.php:1205
+msgid "Please enter your Facebook URL."
+msgstr ""
+
+#: includes/options-config.php:1210 includes/vc_functions.php:981
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/options-config.php:1211
+msgid "Please enter your Twitter URL."
+msgstr ""
+
+#: includes/options-config.php:1216 includes/vc_functions.php:997
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/options-config.php:1217
+msgid "Please enter your Google Plus URL."
+msgstr ""
+
+#: includes/options-config.php:1222 includes/vc_functions.php:1005
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/options-config.php:1223
+msgid "Please enter your Vimeo URL."
+msgstr ""
+
+#: includes/options-config.php:1228 includes/vc_functions.php:1013
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/options-config.php:1229
+msgid "Please enter your Dribbble URL."
+msgstr ""
+
+#: includes/options-config.php:1234 includes/vc_functions.php:1021
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/options-config.php:1235
+msgid "Please enter your Pinterest URL."
+msgstr ""
+
+#: includes/options-config.php:1240 includes/vc_functions.php:1029
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/options-config.php:1241
+msgid "Please enter your Youtube URL."
+msgstr ""
+
+#: includes/options-config.php:1246 includes/vc_functions.php:1037
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/options-config.php:1247
+msgid "Please enter your Tumblr URL."
+msgstr ""
+
+#: includes/options-config.php:1252 includes/vc_functions.php:1045
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/options-config.php:1253
+msgid "Please enter your Linkedin URL."
+msgstr ""
+
+#: includes/options-config.php:1258 includes/vc_functions.php:1053
+msgid "Behance URL"
+msgstr ""
+
+#: includes/options-config.php:1259
+msgid "Please enter your Behance URL."
+msgstr ""
+
+#: includes/options-config.php:1264 includes/vc_functions.php:989
+msgid "500px URL"
+msgstr ""
+
+#: includes/options-config.php:1265
+msgid "Please enter your 500px URL."
+msgstr ""
+
+#: includes/options-config.php:1270 includes/vc_functions.php:1061
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/options-config.php:1271
+msgid "Please enter your Flickr URL."
+msgstr ""
+
+#: includes/options-config.php:1276 includes/vc_functions.php:1069
+msgid "Spotify URL"
+msgstr ""
+
+#: includes/options-config.php:1277
+msgid "Please enter your Spotify URL."
+msgstr ""
+
+#: includes/options-config.php:1282 includes/vc_functions.php:1077
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/options-config.php:1283
+msgid "Please enter your Instagram URL."
+msgstr ""
+
+#: includes/options-config.php:1288 includes/vc_functions.php:1085
+msgid "GitHub URL"
+msgstr ""
+
+#: includes/options-config.php:1289
+msgid "Please enter your GitHub URL."
+msgstr ""
+
+#: includes/options-config.php:1294
+msgid "StackExchange URL"
+msgstr ""
+
+#: includes/options-config.php:1295
+msgid "Please enter your StackExchange URL."
+msgstr ""
+
+#: includes/options-config.php:1300
+msgid "SoundCloud URL"
+msgstr ""
+
+#: includes/options-config.php:1301
+msgid "Please enter your SoundCloud URL."
+msgstr ""
+
+#: includes/options-config.php:1306
+msgid "VK URL"
+msgstr ""
+
+#: includes/options-config.php:1307
+msgid "Please enter your VK URL."
+msgstr ""
+
+#: includes/options-config.php:1312
+msgid "Vine URL"
+msgstr ""
+
+#: includes/options-config.php:1313
+msgid "Please enter your Vine URL."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:274
+#: includes/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:42
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:72
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:84
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:89
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:279
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: includes/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: includes/tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm.php:393 includes/tgm.php:912 includes/tgm.php:2618
+#: includes/tgm.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm.php:394 includes/tgm.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/tgm.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: includes/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tgm.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/tgm.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/tgm.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: includes/tgm.php:1019 includes/tgm.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: includes/tgm.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: includes/tgm.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/tgm.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/tgm.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/tgm.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/tgm.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/tgm.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/tgm.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/tgm.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/tgm.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/tgm.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/tgm.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgm.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/tgm.php:2634 includes/vc_functions.php:918
+msgid "Type"
+msgstr ""
+
+#: includes/tgm.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/tgm.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/tgm.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/tgm.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/tgm.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/tgm.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/tgm.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/tgm.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/tgm.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/tgm.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/tgm.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/tgm.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/tgm.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/tgm.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/tgm.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgm.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgm.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm.php:3594 includes/tgm.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm.php:3594 includes/tgm.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgm.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgm.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/vc_functions.php:48
+msgid "Page Heading"
+msgstr ""
+
+#: includes/vc_functions.php:50
+msgid "Display a page heading."
+msgstr ""
+
+#: includes/vc_functions.php:51 includes/vc_functions.php:91
+#: includes/vc_functions.php:274 includes/vc_functions.php:415
+#: includes/vc_functions.php:536 includes/vc_functions.php:628
+#: includes/vc_functions.php:674 includes/vc_functions.php:827
+#: includes/vc_functions.php:913 includes/vc_functions.php:1155
+msgid "NeuronElements"
+msgstr ""
+
+#: includes/vc_functions.php:58
+msgid "Enter the title of page heading."
+msgstr ""
+
+#: includes/vc_functions.php:63
+msgid "Content"
+msgstr ""
+
+#: includes/vc_functions.php:65
+msgid "Enter the content of page heading."
+msgstr ""
+
+#: includes/vc_functions.php:70 includes/vc_functions.php:252
+#: includes/vc_functions.php:394 includes/vc_functions.php:507
+#: includes/vc_functions.php:610 includes/vc_functions.php:807
+#: includes/vc_functions.php:892 includes/vc_functions.php:1133
+#: includes/vc_functions.php:1348
+msgid "Extra class name"
+msgstr ""
+
+#: includes/vc_functions.php:72 includes/vc_functions.php:254
+#: includes/vc_functions.php:396 includes/vc_functions.php:509
+#: includes/vc_functions.php:612 includes/vc_functions.php:809
+#: includes/vc_functions.php:894 includes/vc_functions.php:1135
+#: includes/vc_functions.php:1350
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: includes/vc_functions.php:76 includes/vc_functions.php:259
+#: includes/vc_functions.php:401 includes/vc_functions.php:513
+#: includes/vc_functions.php:616 includes/vc_functions.php:813
+#: includes/vc_functions.php:898 includes/vc_functions.php:1140
+#: includes/vc_functions.php:1354
+msgid "Css"
+msgstr ""
+
+#: includes/vc_functions.php:78 includes/vc_functions.php:618
+#: includes/vc_functions.php:815 includes/vc_functions.php:900
+#: includes/vc_functions.php:1142 includes/vc_functions.php:1356
+msgid "Design options"
+msgstr ""
+
+#: includes/vc_functions.php:90
+msgid "Display a portfolio."
+msgstr ""
+
+#: includes/vc_functions.php:108
+msgid "Build the portfolio query.<br><small>Note: If nothing is selected all portfolios items will be displayed.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:109 includes/vc_functions.php:117
+#: includes/vc_functions.php:124 includes/vc_functions.php:131
+#: includes/vc_functions.php:139 includes/vc_functions.php:285
+#: includes/vc_functions.php:293
+msgid "Functionality"
+msgstr ""
+
+#: includes/vc_functions.php:114
+msgid "Sortable"
+msgstr ""
+
+#: includes/vc_functions.php:116
+msgid "Make portfolio items sortable, filters are represented by portfolio categories. <br><small>Note: If no taxonomies are selected while building the query, filters wont be displayed.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:121
+msgid "Filters String"
+msgstr ""
+
+#: includes/vc_functions.php:123
+msgid "Override the string 'Filters:', if you want to remove it, enter the word empty."
+msgstr ""
+
+#: includes/vc_functions.php:128 includes/vc_functions.php:289
+msgid "Posts per Page"
+msgstr ""
+
+#: includes/vc_functions.php:130
+msgid "Enter the number of how many portfolio items per page you want to display, default is 9. <br><small>Note: If want all the portfolio items to be displayed, write only -1.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:136
+msgid "Button Link"
+msgstr ""
+
+#: includes/vc_functions.php:138
+msgid "Add the link of a button at the bottom."
+msgstr ""
+
+#: includes/vc_functions.php:145
+msgid "Select the type that you want to show your portfolio items."
+msgstr ""
+
+#: includes/vc_functions.php:147 includes/vc_functions.php:165
+#: includes/vc_functions.php:190 includes/vc_functions.php:206
+#: includes/vc_functions.php:223 includes/vc_functions.php:344
+#: includes/vc_functions.php:359 includes/vc_functions.php:372
+#: includes/vc_functions.php:385 includes/vc_functions.php:964
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: includes/vc_functions.php:149
+msgid "Hover & No Space"
+msgstr ""
+
+#: includes/vc_functions.php:151
+msgid "Meta & No Space"
+msgstr ""
+
+#: includes/vc_functions.php:153
+msgid "No Meta & No Space"
+msgstr ""
+
+#: includes/vc_functions.php:163
+msgid "Select the hover style that you want to show the projects."
+msgstr ""
+
+#: includes/vc_functions.php:179
+msgid "Metro Layout"
+msgstr ""
+
+#: includes/vc_functions.php:181
+msgid "Enable metro layout for portfolio items. <br><small>Note: Columns can be selected for each portfolio item while creating or editing them.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:188
+msgid "Select the columns that you want to show your portfolio items."
+msgstr ""
+
+#: includes/vc_functions.php:204
+msgid "Select the text position of portfolio, default is center."
+msgstr ""
+
+#: includes/vc_functions.php:219
+msgid "Hover Effect"
+msgstr ""
+
+#: includes/vc_functions.php:224
+msgid "On"
+msgstr ""
+
+#: includes/vc_functions.php:225
+msgid "Off"
+msgstr ""
+
+#: includes/vc_functions.php:232
+msgid "Pagination"
+msgstr ""
+
+#: includes/vc_functions.php:234
+msgid "Select the pagination style of this portfolio element."
+msgstr ""
+
+#: includes/vc_functions.php:236
+msgid "Normal Pagination"
+msgstr ""
+
+#: includes/vc_functions.php:237
+msgid "Show More Button"
+msgstr ""
+
+#: includes/vc_functions.php:244
+msgid "Show More Text"
+msgstr ""
+
+#: includes/vc_functions.php:246
+msgid "Change the show more button text, default is 'Show More'."
+msgstr ""
+
+#: includes/vc_functions.php:261 includes/vc_functions.php:403
+#: includes/vc_functions.php:515
+msgid "Design Options"
+msgstr ""
+
+#: includes/vc_functions.php:273
+msgid "Display a blog."
+msgstr ""
+
+#: includes/vc_functions.php:279
+msgid "Categories"
+msgstr ""
+
+#: includes/vc_functions.php:284
+msgid "Select the categories you want to get the posts from."
+msgstr ""
+
+#: includes/vc_functions.php:291
+msgid "Enter the number of how many blog posts per page you want to display, default is 10. <br><small>Note: If want all the blog posts to be displayed, write only -1.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:299
+msgid "Select the layout that you want to show your blog posts."
+msgstr ""
+
+#: includes/vc_functions.php:302
+msgid "Minimal"
+msgstr ""
+
+#: includes/vc_functions.php:303
+msgid "Creative"
+msgstr ""
+
+#: includes/vc_functions.php:313
+msgid "Select the columns that you want to show your blog posts."
+msgstr ""
+
+#: includes/vc_functions.php:328
+msgid "Select the position of sidebar, or hide it."
+msgstr ""
+
+#: includes/vc_functions.php:342
+msgid "Select the position of pagination."
+msgstr ""
+
+#: includes/vc_functions.php:355
+msgid "Show Author"
+msgstr ""
+
+#: includes/vc_functions.php:357
+msgid "Show or hide Author meta in blog."
+msgstr ""
+
+#: includes/vc_functions.php:370
+msgid "Show or hide Categories meta in blog."
+msgstr ""
+
+#: includes/vc_functions.php:381
+msgid "Show Date"
+msgstr ""
+
+#: includes/vc_functions.php:383
+msgid "Show or hide Date meta in blog."
+msgstr ""
+
+#: includes/vc_functions.php:416
+msgid "Display a button."
+msgstr ""
+
+#: includes/vc_functions.php:421
+msgid "Link"
+msgstr ""
+
+#: includes/vc_functions.php:423
+msgid "Select the link of button."
+msgstr ""
+
+#: includes/vc_functions.php:429
+msgid "Select the style of button."
+msgstr ""
+
+#: includes/vc_functions.php:431 includes/vc_functions.php:457
+msgid "Normal"
+msgstr ""
+
+#: includes/vc_functions.php:432
+msgid "Outline"
+msgstr ""
+
+#: includes/vc_functions.php:439
+msgid "Shape"
+msgstr ""
+
+#: includes/vc_functions.php:441
+msgid "Select the shape of button."
+msgstr ""
+
+#: includes/vc_functions.php:444
+msgid "Rounded"
+msgstr ""
+
+#: includes/vc_functions.php:445
+msgid "Round"
+msgstr ""
+
+#: includes/vc_functions.php:452
+msgid "Size"
+msgstr ""
+
+#: includes/vc_functions.php:454
+msgid "Select the size of button."
+msgstr ""
+
+#: includes/vc_functions.php:456 includes/vc_functions.php:1297
+msgid "Small"
+msgstr ""
+
+#: includes/vc_functions.php:458 includes/vc_functions.php:1299
+msgid "Large"
+msgstr ""
+
+#: includes/vc_functions.php:459 includes/vc_functions.php:1300
+msgid "Extra Large"
+msgstr ""
+
+#: includes/vc_functions.php:466
+msgid "Fluid"
+msgstr ""
+
+#: includes/vc_functions.php:468
+msgid "Make the button fluid, button width will be the same as column."
+msgstr ""
+
+#: includes/vc_functions.php:470
+msgid "Yes"
+msgstr ""
+
+#: includes/vc_functions.php:471
+msgid "No"
+msgstr ""
+
+#: includes/vc_functions.php:477
+msgid "Color"
+msgstr ""
+
+#: includes/vc_functions.php:479 includes/vc_functions.php:768
+msgid "Select the color of button."
+msgstr ""
+
+#: includes/vc_functions.php:481 includes/vc_functions.php:749
+#: includes/vc_functions.php:770
+msgid "Primary"
+msgstr ""
+
+#: includes/vc_functions.php:482 includes/vc_functions.php:771
+msgid "Grey Color"
+msgstr ""
+
+#: includes/vc_functions.php:483 includes/vc_functions.php:772
+msgid "White Color"
+msgstr ""
+
+#: includes/vc_functions.php:484 includes/vc_functions.php:774
+msgid "Red Color"
+msgstr ""
+
+#: includes/vc_functions.php:485 includes/vc_functions.php:775
+msgid "Green Color"
+msgstr ""
+
+#: includes/vc_functions.php:486 includes/vc_functions.php:776
+msgid "Blue Color"
+msgstr ""
+
+#: includes/vc_functions.php:487 includes/vc_functions.php:575
+#: includes/vc_functions.php:751 includes/vc_functions.php:777
+#: includes/vc_functions.php:1323
+msgid "Custom"
+msgstr ""
+
+#: includes/vc_functions.php:493 includes/vc_functions.php:731
+#: includes/vc_functions.php:784
+msgid "Text Color"
+msgstr ""
+
+#: includes/vc_functions.php:495 includes/vc_functions.php:786
+msgid "Select the color of text."
+msgstr ""
+
+#: includes/vc_functions.php:500 includes/vc_functions.php:745
+#: includes/vc_functions.php:792
+msgid "Background Color"
+msgstr ""
+
+#: includes/vc_functions.php:502 includes/vc_functions.php:794
+msgid "Select the color of background."
+msgstr ""
+
+#: includes/vc_functions.php:533
+msgid "Map"
+msgstr ""
+
+#: includes/vc_functions.php:535
+msgid "Display a map."
+msgstr ""
+
+#: includes/vc_functions.php:544
+msgid "Map Height"
+msgstr ""
+
+#: includes/vc_functions.php:546
+msgid "Enter the map height size."
+msgstr ""
+
+#: includes/vc_functions.php:551
+msgid "Map Full Height"
+msgstr ""
+
+#: includes/vc_functions.php:553
+msgid "Set map to full height."
+msgstr ""
+
+#: includes/vc_functions.php:557
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/vc_functions.php:559
+msgid "Enter the map zoom perspective.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:563
+msgid "Map Scroll Zoom"
+msgstr ""
+
+#: includes/vc_functions.php:565 includes/vc_functions.php:604
+msgid "Enable scroll in the map."
+msgstr ""
+
+#: includes/vc_functions.php:569
+msgid "Map Style"
+msgstr ""
+
+#: includes/vc_functions.php:571
+msgid "Select the style of the map."
+msgstr ""
+
+#: includes/vc_functions.php:581
+msgid "Map Custom Style"
+msgstr ""
+
+#: includes/vc_functions.php:583
+msgid "Enter the custom style, get custom style <a target=\"_BLANK\" href=\"https://snazzymaps.com/\">here</a>."
+msgstr ""
+
+#: includes/vc_functions.php:588
+msgid "Map Controls"
+msgstr ""
+
+#: includes/vc_functions.php:590
+msgid "Toogle map controls."
+msgstr ""
+
+#: includes/vc_functions.php:592
+msgid "Type</br>"
+msgstr ""
+
+#: includes/vc_functions.php:593
+msgid "Zoom</br>"
+msgstr ""
+
+#: includes/vc_functions.php:594
+msgid "Fullscreen</br>"
+msgstr ""
+
+#: includes/vc_functions.php:595
+msgid "Street View</br>"
+msgstr ""
+
+#: includes/vc_functions.php:596
+msgid "Draggable</br>"
+msgstr ""
+
+#: includes/vc_functions.php:602
+msgid "Marker Animation"
+msgstr ""
+
+#: includes/vc_functions.php:626
+msgid "Map Marker"
+msgstr ""
+
+#: includes/vc_functions.php:634
+msgid "Map Latitude"
+msgstr ""
+
+#: includes/vc_functions.php:636
+msgid "Enter the map latitude coordinates, to get map coordinates <a target=\"_BLANK\" href=\"http://www.latlong.net/\">click here</a>."
+msgstr ""
+
+#: includes/vc_functions.php:641
+msgid "Map Longitude"
+msgstr ""
+
+#: includes/vc_functions.php:643
+msgid "Enter the map longitude coordinates. "
+msgstr ""
+
+#: includes/vc_functions.php:648
+msgid "Marker Image"
+msgstr ""
+
+#: includes/vc_functions.php:650
+msgid "Upload a custom marker image or use the default one."
+msgstr ""
+
+#: includes/vc_functions.php:654
+msgid "Marker Title"
+msgstr ""
+
+#: includes/vc_functions.php:656
+msgid "Enter the title of map marker."
+msgstr ""
+
+#: includes/vc_functions.php:660
+msgid "Marker Description"
+msgstr ""
+
+#: includes/vc_functions.php:662
+msgid "Enter the description of map marker."
+msgstr ""
+
+#: includes/vc_functions.php:672
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/vc_functions.php:675
+msgid "Display a pricing table."
+msgstr ""
+
+#: includes/vc_functions.php:682
+msgid "Enter the title of table."
+msgstr ""
+
+#: includes/vc_functions.php:687
+msgid "Subtitle"
+msgstr ""
+
+#: includes/vc_functions.php:689
+msgid "Enter the subtitle of table."
+msgstr ""
+
+#: includes/vc_functions.php:694
+msgid "Price"
+msgstr ""
+
+#: includes/vc_functions.php:696
+msgid "Enter the price of table."
+msgstr ""
+
+#: includes/vc_functions.php:701
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/vc_functions.php:703
+msgid "Enter the currency symbol of table."
+msgstr ""
+
+#: includes/vc_functions.php:707
+msgid "Pricing Unit"
+msgstr ""
+
+#: includes/vc_functions.php:709
+msgid "Enter the pricing unit of table."
+msgstr ""
+
+#: includes/vc_functions.php:715
+msgid "Enter the description of table."
+msgstr ""
+
+#: includes/vc_functions.php:719
+msgid "Text Lines"
+msgstr ""
+
+#: includes/vc_functions.php:721
+msgid "Enter table text lines, separate them in new lines to create the list."
+msgstr ""
+
+#: includes/vc_functions.php:727
+msgid "Add a button to the bottom of table."
+msgstr ""
+
+#: includes/vc_functions.php:733
+msgid "Select the text color."
+msgstr ""
+
+#: includes/vc_functions.php:740
+msgid "Select the borders color."
+msgstr ""
+
+#: includes/vc_functions.php:747
+msgid "Select the background color of table."
+msgstr ""
+
+#: includes/vc_functions.php:750
+msgid "Transparent"
+msgstr ""
+
+#: includes/vc_functions.php:758
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/vc_functions.php:760
+msgid "Select the custom background color."
+msgstr ""
+
+#: includes/vc_functions.php:766
+msgid "Button Color"
+msgstr ""
+
+#: includes/vc_functions.php:773
+msgid "Dark Color"
+msgstr ""
+
+#: includes/vc_functions.php:800
+msgid "Highlight"
+msgstr ""
+
+#: includes/vc_functions.php:802
+msgid "Highlight this table."
+msgstr ""
+
+#: includes/vc_functions.php:825
+msgid "Carousel"
+msgstr ""
+
+#: includes/vc_functions.php:828
+msgid "Display a carousel slider."
+msgstr ""
+
+#: includes/vc_functions.php:833
+msgid "Images"
+msgstr ""
+
+#: includes/vc_functions.php:835
+msgid "Upload the images to carousel slider."
+msgstr ""
+
+#: includes/vc_functions.php:839
+msgid "Items"
+msgstr ""
+
+#: includes/vc_functions.php:841
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: includes/vc_functions.php:845
+msgid "Margin"
+msgstr ""
+
+#: includes/vc_functions.php:847
+msgid "Enter the margin space, number will be represented in pixels."
+msgstr ""
+
+#: includes/vc_functions.php:851
+msgid "Controls"
+msgstr ""
+
+#: includes/vc_functions.php:853
+msgid "Toogle carousel controls."
+msgstr ""
+
+#: includes/vc_functions.php:855
+msgid "Auto Height</br>"
+msgstr ""
+
+#: includes/vc_functions.php:856
+msgid "Loop</br>"
+msgstr ""
+
+#: includes/vc_functions.php:857
+msgid "Mouse Drag</br>"
+msgstr ""
+
+#: includes/vc_functions.php:858
+msgid "Touch Drag</br>"
+msgstr ""
+
+#: includes/vc_functions.php:859
+msgid "Navigation</br>"
+msgstr ""
+
+#: includes/vc_functions.php:860
+msgid "Dots</br>"
+msgstr ""
+
+#: includes/vc_functions.php:861
+msgid "Autoplay</br>"
+msgstr ""
+
+#: includes/vc_functions.php:862
+msgid "Pause on mouse hover</br>"
+msgstr ""
+
+#: includes/vc_functions.php:868
+msgid "Stage Padding"
+msgstr ""
+
+#: includes/vc_functions.php:870
+msgid "Padding left and right on stage (can see neighbours)."
+msgstr ""
+
+#: includes/vc_functions.php:874
+msgid "Start Position"
+msgstr ""
+
+#: includes/vc_functions.php:876
+msgid "Enter from which element you want to start the position of carousel."
+msgstr ""
+
+#: includes/vc_functions.php:880
+msgid "Auto Play Timeout"
+msgstr ""
+
+#: includes/vc_functions.php:882
+msgid "Autoplay interval timeout, number is represented in seconds."
+msgstr ""
+
+#: includes/vc_functions.php:886
+msgid "Smart Speed"
+msgstr ""
+
+#: includes/vc_functions.php:888
+msgid "Speed Calculate, number is represented in seconds."
+msgstr ""
+
+#: includes/vc_functions.php:912
+msgid "Display social media."
+msgstr ""
+
+#: includes/vc_functions.php:920
+msgid "Select the type you want to display the social media."
+msgstr ""
+
+#: includes/vc_functions.php:933
+msgid "Select the social media layout."
+msgstr ""
+
+#: includes/vc_functions.php:960
+msgid "URL Inheritance"
+msgstr ""
+
+#: includes/vc_functions.php:962
+msgid "Select if you want to inherit the URLs from theme options."
+msgstr ""
+
+#: includes/vc_functions.php:965
+msgid "Custom URLs"
+msgstr ""
+
+#: includes/vc_functions.php:968 includes/vc_functions.php:976
+#: includes/vc_functions.php:984 includes/vc_functions.php:992
+#: includes/vc_functions.php:1000 includes/vc_functions.php:1008
+#: includes/vc_functions.php:1016 includes/vc_functions.php:1024
+#: includes/vc_functions.php:1032 includes/vc_functions.php:1040
+#: includes/vc_functions.php:1048 includes/vc_functions.php:1056
+#: includes/vc_functions.php:1064 includes/vc_functions.php:1072
+#: includes/vc_functions.php:1080 includes/vc_functions.php:1088
+#: includes/vc_functions.php:1096 includes/vc_functions.php:1104
+#: includes/vc_functions.php:1112 includes/vc_functions.php:1120
+#: includes/vc_functions.php:1128 includes/vc_functions.php:1342
+msgid "URL"
+msgstr ""
+
+#: includes/vc_functions.php:975
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: includes/vc_functions.php:983
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: includes/vc_functions.php:991
+msgid "Enter your 500px URL."
+msgstr ""
+
+#: includes/vc_functions.php:999
+msgid "Enter your Google Plus URL."
+msgstr ""
+
+#: includes/vc_functions.php:1007
+msgid "Enter your Vimeo URL."
+msgstr ""
+
+#: includes/vc_functions.php:1015
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: includes/vc_functions.php:1023
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: includes/vc_functions.php:1031
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: includes/vc_functions.php:1039
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: includes/vc_functions.php:1047
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: includes/vc_functions.php:1055
+msgid "Enter your Behance URL."
+msgstr ""
+
+#: includes/vc_functions.php:1063
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: includes/vc_functions.php:1071
+msgid "Enter your Spotify URL."
+msgstr ""
+
+#: includes/vc_functions.php:1079
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: includes/vc_functions.php:1087
+msgid "Enter your GitHub URL."
+msgstr ""
+
+#: includes/vc_functions.php:1093
+msgid "Houzz URL"
+msgstr ""
+
+#: includes/vc_functions.php:1095
+msgid "Enter your Houzz URL."
+msgstr ""
+
+#: includes/vc_functions.php:1101
+msgid "StackExchange  URL"
+msgstr ""
+
+#: includes/vc_functions.php:1103
+msgid "Enter your StackExchange URL."
+msgstr ""
+
+#: includes/vc_functions.php:1109
+msgid "SoundCloud  URL"
+msgstr ""
+
+#: includes/vc_functions.php:1111
+msgid "Enter your SoundCloud URL."
+msgstr ""
+
+#: includes/vc_functions.php:1117
+msgid "VK  URL"
+msgstr ""
+
+#: includes/vc_functions.php:1119
+msgid "Enter your VK URL."
+msgstr ""
+
+#: includes/vc_functions.php:1125
+msgid "Vine  URL"
+msgstr ""
+
+#: includes/vc_functions.php:1127
+msgid "Enter your Vine URL."
+msgstr ""
+
+#: includes/vc_functions.php:1152
+msgid "Service"
+msgstr ""
+
+#: includes/vc_functions.php:1154
+msgid "Display a service."
+msgstr ""
+
+#: includes/vc_functions.php:1160
+msgid "Icon Position"
+msgstr ""
+
+#: includes/vc_functions.php:1162
+msgid "Select the position of icon."
+msgstr ""
+
+#: includes/vc_functions.php:1174
+msgid "Service Alignment"
+msgstr ""
+
+#: includes/vc_functions.php:1176 includes/vc_functions.php:1188
+msgid "Select the alignment of service."
+msgstr ""
+
+#: includes/vc_functions.php:1186
+msgid "Icon"
+msgstr ""
+
+#: includes/vc_functions.php:1190 includes/vc_functions.php:1203
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/vc_functions.php:1191 includes/vc_functions.php:1214
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/vc_functions.php:1192 includes/vc_functions.php:1225
+msgid "Typicons"
+msgstr ""
+
+#: includes/vc_functions.php:1193 includes/vc_functions.php:1236
+msgid "Entypo"
+msgstr ""
+
+#: includes/vc_functions.php:1194 includes/vc_functions.php:1247
+msgid "Linecons"
+msgstr ""
+
+#: includes/vc_functions.php:1195 includes/vc_functions.php:1258
+msgid "Mono Social"
+msgstr ""
+
+#: includes/vc_functions.php:1196 includes/vc_functions.php:1269
+msgid "Material"
+msgstr ""
+
+#: includes/vc_functions.php:1209
+msgid "Select the font awesome for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1220
+msgid "Select the opcenic icon for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1231
+msgid "Select the typicons icon for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1242
+msgid "Select the entypo icon for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1253
+msgid "Select the linecons icon for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1264
+msgid "Select the monosocial icon for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1275
+msgid "Select the material icon for your service."
+msgstr ""
+
+#: includes/vc_functions.php:1280
+msgid "Image"
+msgstr ""
+
+#: includes/vc_functions.php:1282
+msgid "Upload an image as icon."
+msgstr ""
+
+#: includes/vc_functions.php:1286
+msgid "Icon Color"
+msgstr ""
+
+#: includes/vc_functions.php:1288
+msgid "Select the icon color."
+msgstr ""
+
+#: includes/vc_functions.php:1292
+msgid "Icon Size"
+msgstr ""
+
+#: includes/vc_functions.php:1294
+msgid "Select the size of icon."
+msgstr ""
+
+#: includes/vc_functions.php:1296
+msgid "Extra Small"
+msgstr ""
+
+#: includes/vc_functions.php:1298
+msgid "Medium"
+msgstr ""
+
+#: includes/vc_functions.php:1308
+msgid "Enter the title of your service."
+msgstr ""
+
+#: includes/vc_functions.php:1313
+msgid "Title Size"
+msgstr ""
+
+#: includes/vc_functions.php:1315
+msgid "Select the size of title."
+msgstr ""
+
+#: includes/vc_functions.php:1317
+msgid "Heading 1"
+msgstr ""
+
+#: includes/vc_functions.php:1318
+msgid "Heading 2"
+msgstr ""
+
+#: includes/vc_functions.php:1319
+msgid "Heading 3"
+msgstr ""
+
+#: includes/vc_functions.php:1320
+msgid "Heading 4"
+msgstr ""
+
+#: includes/vc_functions.php:1321
+msgid "Heading 5"
+msgstr ""
+
+#: includes/vc_functions.php:1322
+msgid "Heading 6"
+msgstr ""
+
+#: includes/vc_functions.php:1329
+msgid "Title Custom Size"
+msgstr ""
+
+#: includes/vc_functions.php:1331
+msgid "Enter the font size of title, number is represented in pixels."
+msgstr ""
+
+#: includes/vc_functions.php:1338
+msgid "Write the description of this service."
+msgstr ""
+
+#: includes/vc_functions.php:1344
+msgid "Select a url to make the service a link. <br><small>Note: Only the url will be available, not the text of link.</small>"
+msgstr ""
+
+#: includes/vc_functions.php:1367
+msgid "Left and Right Spacing"
+msgstr ""
+
+#: includes/vc_functions.php:1368 includes/vc_functions.php:1384
+#: includes/vc_functions.php:1400 includes/vc_functions.php:1416
+#: includes/vc_functions.php:1429
+msgid "Extra Options"
+msgstr ""
+
+#: includes/vc_functions.php:1369
+msgid "Select the left and right spacing of this row."
+msgstr ""
+
+#: includes/vc_functions.php:1372 includes/vc_functions.php:1388
+#: includes/vc_functions.php:1404
+msgid "0 pixel"
+msgstr ""
+
+#: includes/vc_functions.php:1373 includes/vc_functions.php:1389
+#: includes/vc_functions.php:1405
+msgid "30 pixels"
+msgstr ""
+
+#: includes/vc_functions.php:1374 includes/vc_functions.php:1390
+#: includes/vc_functions.php:1406
+msgid "50 pixels"
+msgstr ""
+
+#: includes/vc_functions.php:1375 includes/vc_functions.php:1391
+#: includes/vc_functions.php:1407
+msgid "70 pixels"
+msgstr ""
+
+#: includes/vc_functions.php:1376 includes/vc_functions.php:1392
+#: includes/vc_functions.php:1408
+msgid "100 pixels"
+msgstr ""
+
+#: includes/vc_functions.php:1377 includes/vc_functions.php:1393
+#: includes/vc_functions.php:1409
+msgid "150 pixels"
+msgstr ""
+
+#: includes/vc_functions.php:1383
+msgid "Top Spacing"
+msgstr ""
+
+#: includes/vc_functions.php:1385
+msgid "Select the top spacing of this row."
+msgstr ""
+
+#: includes/vc_functions.php:1399
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/vc_functions.php:1401
+msgid "Select the bottom spacing of this row."
+msgstr ""
+
+#: includes/vc_functions.php:1417
+msgid "Select the alignment of this row."
+msgstr ""
+
+#: includes/vc_functions.php:1428
+msgid "Mobile"
+msgstr ""
+
+#: includes/vc_functions.php:1430
+msgid "Select the visibiliy of this row in mobile layout mode (< 768px)."
+msgstr ""
+
+#: includes/vc_functions.php:1433
+msgid "Visible"
+msgstr ""
+
+#: includes/vc_functions.php:1434
+msgid "Hidden"
+msgstr ""
+
+#: index.php:42 template-blog.php:180 templates/single-blog.php:56
+msgid "by"
+msgstr ""
+
+#: index.php:43 template-blog.php:194 templates/single-blog.php:61
+msgid "in"
+msgstr ""
+
+#: index.php:44 template-blog.php:208 templates/single-blog.php:66
+msgid "posted"
+msgstr ""
+
+#: index.php:47 template-blog.php:219 template-blog.php:221
+#: templates/blog-classic.php:44 templates/blog-creative.php:46
+#: templates/blog-minimal.php:46
+msgid "Read More"
+msgstr ""
+
+#: search.php:17
+msgid "All search results in this critea."
+msgstr ""
+
+#: single-portfolio.php:153 single-portfolio.php:155
+#: templates/single-portfolio.php:148 templates/single-portfolio.php:150
+msgid "Previous Project"
+msgstr ""
+
+#: single-portfolio.php:162 single-portfolio.php:164
+#: templates/single-portfolio.php:157 templates/single-portfolio.php:159
+msgid "Next Project"
+msgstr ""
+
+#: template-portfolio.php:24 vc_templates/proton_portfolio.php:178
+msgid "Filters:"
+msgstr ""
+
+#: template-portfolio.php:26 vc_templates/proton_portfolio.php:186
+msgid "All"
+msgstr ""
+
+#: template-portfolio.php:295 vc_templates/proton_portfolio.php:392
+msgid "Show More"
+msgstr ""
+
+#: templates/blog-classic.php:22 templates/blog-creative.php:25
+#: templates/blog-minimal.php:24
+msgid "by "
+msgstr ""
+
+#: templates/blog-classic.php:29 templates/blog-creative.php:32
+#: templates/blog-minimal.php:31
+msgid "in "
+msgstr ""
+
+#: templates/blog-classic.php:36 templates/blog-creative.php:39
+#: templates/blog-minimal.php:38
+msgid "posted "
+msgstr ""
+
+#: templates/page-coming-soon.php:48
+msgid "Website coming soon"
+msgstr ""
+
+#: templates/page-coming-soon.php:49
+msgid "We are working very hard to be back as soon as we can!"
+msgstr ""
+
+#: templates/page-coming-soon.php:130
+msgid "Days"
+msgstr ""
+
+#: templates/page-coming-soon.php:131
+msgid "Hours"
+msgstr ""
+
+#: templates/page-coming-soon.php:132
+msgid "Minutes"
+msgstr ""
+
+#: templates/page-coming-soon.php:133
+msgid "Seconds"
+msgstr ""
+
+#: templates/page-maintenance.php:23
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper pretium tem. Praesent velit nunc, porta vel sem bibendum, condimentum convallis nunc. Proin maximus finibus ultricies curabitur mi justo, consequat a augue non, sceleris."
+msgstr ""
+
+#: templates/single-blog.php:74
+msgid "Previous Post"
+msgstr ""
+
+#: templates/single-blog.php:77
+msgid "Next Post"
+msgstr ""

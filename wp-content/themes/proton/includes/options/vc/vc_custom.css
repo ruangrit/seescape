@@ -1,0 +1,19 @@
+.wpb_content_element>.wpb_element_wrapper>.wpb_element_title .vc_element-icon {
+   position: absolute;
+   left: 10px;
+}
+
+.wpb_content_element .wpb_element_title {
+    padding-left: 45px !important;
+}
+
+.vc_admin_label {
+    display: block !important;
+    margin-top: 7px;
+    margin-left: 45px;
+    line-height: 14px !important;
+}
+
+.vc_admin_label label {
+    font-weight: bold;
+}
